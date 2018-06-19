@@ -1,0 +1,36 @@
+ .container {
+    border: 5px dotted white; 
+    border-radius: 10px;
+    margin-top: 75px;
+    margin-bottom: 15px;
+    padding: 50px;
+    color:white;
+    } 
+h1{
+    text-align: center;
+    color:white;
+}
+button{
+    text-align: center;
+    margin-left: 500px;
+}
+.image{
+    align-content: right;
+    }
+    
+label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+input.ng-invalid{
+    border-left:10px solid red;
+}
+input.ng-valid{
+    border-left: 10px solid green;
+}
+select.ng-invalid{
+    border-left:10px solid red;
+}
+select.ng-valid{
+    border-left: 10px solid green;
+}
